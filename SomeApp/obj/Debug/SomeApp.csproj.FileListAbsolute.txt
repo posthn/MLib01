@@ -1,0 +1,11 @@
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Debug\SomeApp.exe.config
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Debug\SomeApp.exe
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Debug\SomeApp.pdb
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Debug\MLib01.dll
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Debug\MLib01.pdb
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Debug\SomeApp.csproj.CoreCompileInputs.cache
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Debug\SomeApp.csproj.CopyComplete
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Debug\SomeApp.exe
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Debug\SomeApp.pdb
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Debug\SomeApp.csproj.AssemblyReference.cache
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Debug\SomeApp.csproj.SuggestedBindingRedirects.cache

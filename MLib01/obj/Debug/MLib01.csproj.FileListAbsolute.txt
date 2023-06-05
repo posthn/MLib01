@@ -1,0 +1,6 @@
+C:\Users\mniev\source\repos\MLib01\MLib01\bin\Debug\MLib01.dll
+C:\Users\mniev\source\repos\MLib01\MLib01\bin\Debug\MLib01.pdb
+C:\Users\mniev\source\repos\MLib01\MLib01\obj\Debug\MLib01.csproj.CoreCompileInputs.cache
+C:\Users\mniev\source\repos\MLib01\MLib01\obj\Debug\MLib01.dll
+C:\Users\mniev\source\repos\MLib01\MLib01\obj\Debug\MLib01.pdb
+C:\Users\mniev\source\repos\MLib01\MLib01\obj\Debug\MLib01.csproj.AssemblyReference.cache

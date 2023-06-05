@@ -1,0 +1,10 @@
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Release\SomeApp.exe.config
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Release\SomeApp.exe
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Release\SomeApp.pdb
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Release\MLib01.dll
+C:\Users\mniev\source\repos\MLib01\SomeApp\bin\Release\MLib01.pdb
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Release\SomeApp.csprojAssemblyReference.cache
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Release\SomeApp.csproj.CoreCompileInputs.cache
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Release\SomeApp.csproj.CopyComplete
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Release\SomeApp.exe
+C:\Users\mniev\source\repos\MLib01\SomeApp\obj\Release\SomeApp.pdb
